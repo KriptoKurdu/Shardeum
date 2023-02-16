@@ -31,7 +31,6 @@ https://IpAdresi:8080
 ```
 
 ```
-cd
 cd .shardeum
 ./shell.sh
 operator-cli gui start
